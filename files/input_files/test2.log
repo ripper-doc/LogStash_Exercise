@@ -1,0 +1,1 @@
+<233>6 2022-10-25T09:03:52.754646-06:00 contosohost20 antivirus 3456 - - alertname="Virus Detected On the System" computername="contososerver01" computerip="10.22.145.123" severity="2"
