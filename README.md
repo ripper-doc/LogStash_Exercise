@@ -15,12 +15,16 @@
 
 4. screenshots
 there are 4 screenshots in total:
+
 -> input_log_left_config_file_right.png = this screenshot shows the test.log file on left and the config file used on the right side.
+
 -> stdout_logstash_left_file_output_right.png = this screenshot shows the logstash live output on the left (due to stdout as one of the output plugins) as well as the output.json file on the right, actively written by logstash.
+
 -> input_log_left_config_file_right_CASE_2.png = this screenshot shows the test2.log file (modified log file data-wise, structure same) on left and the config file used on the right side.
+
 -> stdout_logstash_left_file_output_right_CASE_2.png = this screenshot shows the logstash live output on the left (due to stdout as one of the output plugins) as well as the output2.json file on the right, actively written by logstash.
 
-5. Output files for logstash
+6. Output files for logstash
 -> there are 2 files:
     - output.json
     - output2.json
