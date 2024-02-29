@@ -1,0 +1,1 @@
+{"hostname":"contososerver01","description":"Virus Detected On the System","firewall_device":"contosohost20","severity":"Critical","host":"elkStation","event_timestamp":"2022-10-25T09:03:52.754646-06:00","process_number":3456,"severity_level":2,"source_ip":"10.22.145.123","process":"antivirus"}
